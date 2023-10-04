@@ -36,8 +36,8 @@ function Header() {
         </div>
 
         <div className="header__optionBasket">
-        <BsBasket3Fill> 
-            <span className="header__optionLineTwo header__basketCount">0</span></BsBasket3Fill> 
+        <BsBasket3Fill /> 
+            <span className="header__optionLineTwo header__basketCount">0</span>
 
             {/* CHECK WHY '0' IS NOT SHOWING ON THE HEADER */}
         </div>
