@@ -1,0 +1,9 @@
+.product {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px 35px;
+    background: white;
+    z-index: 1;
+    box-shadow: 10px 10px 2px black 10px;
+}
